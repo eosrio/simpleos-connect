@@ -1,0 +1,19 @@
+{
+  "name": "simpleos-connect",
+  "version": "0.1.0",
+  "description": "SimplEOS Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eosrio/simpleos-connect.git"
+  },
+  "author": "EOS Rio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eosrio/simpleos-connect/issues"
+  },
+  "homepage": "https://github.com/eosrio/simpleos-connect#readme"
+}
