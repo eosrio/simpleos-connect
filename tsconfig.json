@@ -5,10 +5,10 @@
     "sourceMap": true,
     "moduleResolution": "Node",
     "declaration": true,
-    "outDir": "dist"
+    "outDir": "lib"
   },
   "exclude": [
     "node_modules",
-    "dist"
+    "lib"
   ]
 }

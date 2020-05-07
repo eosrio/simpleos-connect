@@ -2,7 +2,7 @@
   "name": "simpleos-connect",
   "version": "0.1.0",
   "description": "SimplEOS Connect",
-  "main": "dist/simpleos-connect.js",
+  "main": "lib",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build:tsc": "tsc",

@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.ts',
+  entry: './src/bundle.ts',
   mode: 'production',
   module: {
     rules: [
@@ -13,11 +13,10 @@ module.exports = {
     ],
   },
   resolve: {
-    extensions: [ '.tsx', '.ts', '.js' ],
+    extensions: ['.ts', '.js'],
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'simpleos-connect.js',
-    library: 'simpleosConnect'
+    filename: 'bundle.js',
   }
 };
