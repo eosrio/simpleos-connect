@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/eosrio/simpleos-connect#readme",
   "dependencies": {
-    "async": "^3.2.0",
+    "async": "^3.2.2",
     "socket.io-client": "^2.3.0"
   },
   "devDependencies": {
